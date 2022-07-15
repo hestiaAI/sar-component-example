@@ -3,7 +3,7 @@ This is a demo site showing how to use the sar-component. Visit it [here](https:
 
 ``` js
 /**
- * &lt;sar-form&gt; custom element that helps the user
+ * <sar-form› custom element that helps the user
  * make subject access request by email.
  *
  * Attributes:
@@ -46,11 +46,11 @@ This is a demo site showing how to use the sar-component. Visit it [here](https:
  *
  * Sample usage:
  *
-      &lt;sar-form organizationType="Q5066"
+      <sar-form organizationType="Q5066"
                 mailtoTemplateName="MailtoAccess"
                 carbonCopyDescription="Send a copy another email address"
                 carbonCopyRecipient="bill@microsoft.com"
-                lang="en"&gt;
-      &lt;/sar-form&gt;
+                lang="en">
+      </sar-form>
  */
 ```
