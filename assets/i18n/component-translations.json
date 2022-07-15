@@ -1,0 +1,34 @@
+{
+  "en": {
+    "sar-form-body": "Body",
+    "sar-form-preview_of_email": "Preview of the e-mail",
+    "sar-form-subject": "Subject",
+    "sar-form-preview_of_email_to": "Preview of the e-mail to",
+    "sar-form-select_placeholder": "Click to choose",
+    "sar-form-app_type_name": "Social network / application / digital service",
+    "sar-form-email_button": "Open in your e-mail client",
+    "sar-form-body_placeholder": "Selecting a social network, application or digital service above will automatically fill this",
+    "sar-form-explanation": "You can copy the e-mail fields or open it directly in your e-mail client",
+    "sar-form-recipient": "Recipient",
+    "sar-form-carbon_copy": "Copy to",
+    "sar-form-search_placeholder": "Search",
+    "sar-form-copy_button": "Copy to clipboard",
+    "sar-form-to_fill_in": "The following information needs to be filled in by hand in the e-mail body:"
+  },
+  "fr": {
+    "sar-form-body": "Message",
+    "sar-form-preview_of_email": "Aperçu de l'e-mail",
+    "sar-form-subject": "Objet",
+    "sar-form-preview_of_email_to": "Aperçu de l'e-mail à",
+    "sar-form-select_placeholder": "Cliquer pour choisir",
+    "sar-form-app_type_name": "Réseau social / application / service numérique",
+    "sar-form-email_button": "Ouvrir dans votre client e-mail",
+    "sar-form-body_placeholder": "Choisir un réseau social, une application ou un service numérique ci-dessus remplira automatiquement ce champ",
+    "sar-form-explanation": "Vous pouvez copier les champs de l'email ou l'ouvrir directement dans votre client email.",
+    "sar-form-recipient": "Destinataire",
+    "sar-form-carbon_copy": "Copie à",
+    "sar-form-search_placeholder": "Rechercher",
+    "sar-form-copy_button": "Copier",
+    "sar-form-to_fill_in": "A compléter par vous dans l'e-mail avant envoi:"
+  }
+}
